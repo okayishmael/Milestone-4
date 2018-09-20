@@ -1,4 +1,4 @@
-//Author:Ishmael Sunday | github.com/okayishmael
+//Student:Ishmael Sunday | github.com/okayishmael
 //Code 201 Milestone-4 @ Code Partners > https://codepartners.net
 
 let instruction = alert("Hello and welcome. We need to collect some information (Name, Current City, Gender and confirm if you are a coder) from you before you can access the site.")
