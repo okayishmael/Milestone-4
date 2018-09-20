@@ -20,7 +20,7 @@ console.log(coder); // printing place function name in the paranthesis
 
 if(name){
     document.getElementById('name').innerText = name
-} 
+}
 // Origin/Current City
 if(origin){
     document.getElementById('origin').innerText = origin
